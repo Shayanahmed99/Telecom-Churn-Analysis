@@ -52,4 +52,3 @@ Telecom companies face significant losses due to customer churn. The goal of thi
 1. Clone this repo or download the files
 2. Install dependencies:
    requirements.txt
-```
